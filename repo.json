@@ -1,0 +1,8 @@
+{
+    "name": "eybicidi gecici",
+    "description": "Kapatılacak",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/patr0nq/eybicidi/refs/heads/main/plugins.json"
+    ]
+}
